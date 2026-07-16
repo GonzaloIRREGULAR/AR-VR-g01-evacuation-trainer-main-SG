@@ -24,8 +24,8 @@ Simulador VR de evacuación de emergencias con accesibilidad para personas con d
 |--------|--------|-----|
 |Castro Salazar Mauro | | Líder del proyecto |
 |Camacho QuICO Piero Alonso | | Desarrollador AR/VR |
-|Castro Salazar Mauro | | Diseñador UX/3D |
-|Camacho QuICO Piero Alonso | | QA / Documentación |
+|Silva Garate Gonzalo Alonso | | Diseñador UX/3D |
+|Juan Carlos Chacón ccora | | QA / Documentación |
 
 ---
 
